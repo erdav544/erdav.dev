@@ -21,6 +21,6 @@ p {
     color: #fff;
     font-family: Nunito Sans;
     font-weight: 600;
-    font-size: clamp(.75rem, 5vw, 2rem);
+    font-size: clamp(.75rem, 4vw, 1rem);
     max-width: 43.75rem;
 }
